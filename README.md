@@ -12,4 +12,5 @@ The exe can be downloaded and run as-is. Optionally, if you'd prefer to compile 
 - Program contains a hard-coded list of CLSIDs
 - A complete list of CLSIDs on your system can be found under `HKEY_CLASSES_ROOT\CLSID` within the registry
 - List was adapted from [this article](https://www.tenforums.com/tutorials/3123-clsid-key-guid-shortcuts-list-windows-10-a.html)
+- Not all CLSIDs were tested and not all work
 - I personally find option 91 particularly useful
